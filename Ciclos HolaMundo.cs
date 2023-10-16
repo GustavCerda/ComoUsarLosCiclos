@@ -14,7 +14,21 @@ static String HolaMundo(string hola ){
   
 }
 
+for(int i; i < 20, i++)
+{
+  
+}
+
+do {
+
+}
+ while(i == True)
+ {
+ }
 
 
+foreach Archivos in archivos{
+  print("Metodo para recoorer una lista")
+}
 
 
